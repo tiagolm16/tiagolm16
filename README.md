@@ -2,7 +2,7 @@
 
 
 - 🔭 Cursando Engenharia de software no IDP
-- 🌱 Estudando C
+- 🌱 Estudando C++ e JAVA
 - 👯 Procurando por um estágio
 
 <div> 
